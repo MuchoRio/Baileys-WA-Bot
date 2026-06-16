@@ -1,0 +1,14 @@
+# Dependency directory
+node_modules/
+
+# Local configuration file containing sensitive API keys
+.env
+
+# WhatsApp session authentication credentials
+auth_info_baileys/
+
+# Local lockfile (optional to ignore, but clean to keep out of playground)
+package-lock.json
+
+# Local private persona instructions
+system_instruction.txt
